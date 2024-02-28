@@ -21,7 +21,7 @@
     "description": "SIN security sniffer patterns",
     "includedPatterns": "123",
     "excludedPatterns": "456",
-    "sensitivity": "HIGH"
+    "sensitivity": "CRITICAL"
   },
   {
     "id": "5c49d6a0-74a2-4202-af90-204ef0e35fbc",
@@ -29,6 +29,6 @@
     "description": "Banking security sniffer patterns",
     "includedPatterns": "123",
     "excludedPatterns": "456",
-    "sensitivity": "HIGH"
+    "sensitivity": "CRITICAL"
   }
 ]
